@@ -2,7 +2,7 @@
 Steps to Setup the React Front end app
 1. Clone the Repo
 2. Then type the following command to install the dependencies and start the application -
-    npm install && npm start
+   npm install && npm start
 The front-end server will start on port 3000.
 
 Game will look like this:
